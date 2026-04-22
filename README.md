@@ -16,8 +16,9 @@ I have developed a few self - project based on my skills. They are basic, fast, 
   - Employee Management System
   - Content Management System
   - Movie Stereaming Web - app (Netflix Clone)
-  - Weather Web - app
   - Online Marketplace
+  - Django Weather - app
+  - Django Map Locator
   - Finance Tracker Web - app
   - Text-To-HTML django-markdown
   - Crowd Funding - Web app
