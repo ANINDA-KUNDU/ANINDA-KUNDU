@@ -27,6 +27,8 @@ I have developed a few self - project based on my skills. They are basic, fast, 
   - Crowd Funding - Web app
   - Polling Web - app
   - Library Management System
+
+I have launched Django Library Management System in internet with the url: https://aninda.pythonanywhere.com
 <!--
 **ANINDA-KUNDU/ANINDA-KUNDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
