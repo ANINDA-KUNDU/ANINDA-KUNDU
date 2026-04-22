@@ -5,7 +5,7 @@ I am `ANINDA KUNDU` and I am a `Full - Stack Web Developer ( Python, Django )`
 I have completed my skill gain from `Coursera` offered by tech giant `Meta` 
 In Full - Stack Web Development, I shall use - `HTML5`, `CSS3`, `JavaScript`, `Python`, `Git & GitHub`, `MySQL`, `Django REST FRAMEWORK`.
 
-I have developed a few self - project based on my skills. They are basic, fast, scalable and fully functional working web - app. These projects are developed based on **<u>Python</u>**, **<u>Django<u>**. The list of the project is below:
+I have developed a few self - project based on my skills. They are basic, fast, scalable and fully functional working web - app. These projects are developed based on `Python`, `Django`. The list of the project is below:
   - Restaurant Booking System
   - BlogPost
   - Social media
