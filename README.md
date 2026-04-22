@@ -18,6 +18,11 @@ I have developed a few self - project based on my skills. They are basic, fast, 
   - Movie Stereaming Web - app (Netflix Clone)
   - Weather Web - app
   - Online Marketplace
+  - Finance Tracker Web - app
+  - Text-To-HTML django-markdown
+  - Crowd Funding - Web app
+  - Polling Web - app
+  - Library Management System
 <!--
 **ANINDA-KUNDU/ANINDA-KUNDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
