@@ -31,6 +31,8 @@ I have developed a few self - project based on my skills. They are basic, fast, 
 
 I have launched Django Library Management System in internet with the url: https://aninda.pythonanywhere.com
 
+My E-mail ID: kunduanindakundu@yahoo.com
+
 [My LinkedIn Profile](https://www.linkedin.com/in/aninda-kundu-481718188/recent-activity/all/)  
 [My Personal Portfolio](https://anindakundu.onrender.com)
 <!--
